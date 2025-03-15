@@ -1,18 +1,4 @@
 # jenittahelan_D89E117A774E3ACAE6345BAFDD09C206
-Hackathon Submission Template (Level-1-Solution)
-
-Use Case Title:		Weather Dashboard Web Application
-
-Student Name:	M. Jenitta Helan
-
-Register Number:		20222141506108
-
-Institution:			Nazareth Margoschis College At  Pillayanmanai
-
-Department:		Computer Science
-
-Date of Submission:	15/03/2025
-
 
 --------------------------------------------------------------------------------------------------------------------------
 
